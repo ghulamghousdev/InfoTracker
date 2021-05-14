@@ -1,0 +1,12 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
+E:\Courses\Free lance\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+E:\Courses\Free lance\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+E:\Courses\Free lance\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojAssemblyReference.cache
+E:\Courses\Free lance\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csproj.CoreCompileInputs.cache
+E:\Courses\Free lance\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+E:\Courses\Free lance\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
